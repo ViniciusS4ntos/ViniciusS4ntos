@@ -1,6 +1,4 @@
 ## Tudo certo ? eu sou o Vinicius Santos!
-<p>Cursando Análise e Desenvolvimento de Sistemas na UNINASSAU, 1º período</p><br>
-
 - 🔭 Atualmente estou trabalhando back-end e front-end basic.
 - 🌱 Atualmente estou aprendendo PHP e JavaScript.
 - 😄 Pronomes: Ele/Dele
