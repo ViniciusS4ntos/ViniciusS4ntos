@@ -5,8 +5,8 @@
 <div>
   <a href="https://www.linkedin.com/in/edson-vinicius-685a90302/" target="_blank">
     <img style="height: "180em";" src="https://github-readme-stats.vercel.app/api?username=ViniciusS4ntos&theme=shadow_red&show_icons=true" target="_blank">
-    <img style="height: "180em"; src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusS4ntos&layout=compact&bg_color=000000&title_color=740102&text_color=4F0000&icon_color=E63946&border_color=4F0000" />
-/>
+    <img style="height: "180em"; src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusS4ntos&layout=compact&bg_color=000000&title_color=740102&text_color=4F0000&icon_color=E63946&border_color=4F0000"/>
+
 </div>
     
 ##
