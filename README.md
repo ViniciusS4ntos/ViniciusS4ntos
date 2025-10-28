@@ -7,7 +7,7 @@
 <br />  
 
 ## My Skill Set  
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,powershell,kali,linux,windows" />
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,powershell,kali,linux,windows" />
 
 <br />  
 
