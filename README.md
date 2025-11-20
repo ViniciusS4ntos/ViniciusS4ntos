@@ -12,8 +12,6 @@
 <br />  
 
 ## Connect with me  
-<a href="https://github.com/ViniciusS4ntos" target="_blank" style="margin-right: 15px;">
-  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 <a href="https://www.linkedin.com/in/edson-vinicius-685a90302" target="_blank" style="margin-right: 15px;">
   <img src="https://skillicons.dev/icons?i=linkedin" />
