@@ -26,8 +26,9 @@
 <br />
 <br />  
 
-## Github Stats  
-<table>
+<!--## Github Stats  
+
+<!-- <table>
   <tr>
     <td valign="top" width="50%">
       <div align="center">
@@ -39,6 +40,6 @@
     </td>
   </tr>
 </table>  
-<br/> 
+<br/>  -->
 
 
