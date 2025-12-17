@@ -30,8 +30,8 @@ Atualmente estudo e aplico meus conhecimentos em projetos práticos, buscando ev
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusS4ntos&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusS4ntos&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusS4ntos&show_icons=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusS4ntos&layout=compact&theme=transparent" height="165" />
 </p>
 
 
