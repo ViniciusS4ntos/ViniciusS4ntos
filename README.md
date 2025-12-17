@@ -16,8 +16,9 @@
 
 Meu nome é **Vinicius Santos**, sou estudante de ADS com foco em **desenvolvimento backend**.
 
-Atuo de forma consistente no desenvolvimento das minhas habilidades em tecnologia, aplicando conhecimentos em projetos práticos, trabalhando com diferentes linguagens e ferramentas e seguindo boas práticas de desenvolvimento de software. Tenho foco em evolução contínua, organização de código e construção de soluções funcionais e bem estruturadas.<br>
+Atuo de forma consistente no desenvolvimento das minhas habilidades em tecnologia, aplicando conhecimentos em projetos práticos, trabalhando com diferentes linguagens e ferramentas e seguindo boas práticas de desenvolvimento de software. Tenho foco em evolução contínua, organização de código e construção de soluções funcionais e bem estruturadas.<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-vinicius-685a90302/)
+
 
 ---
 
