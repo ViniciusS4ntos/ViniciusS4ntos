@@ -1,45 +1,48 @@
-### <div align="center"> 👨‍💻 I'm Vinicius, a junior developer studying since 2021 🚀 </div>  
-<div align="center" style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=ViniciusS4ntos&&style=for-the-badge" align="center" />
-</div>
+<h1 align="center">👨‍💻 Vinicius Santos</h1>
 
-<br />
-<br />  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend;Java+%7C+Spring+Boot;Em+constante+evolu%C3%A7%C3%A3o" />
+</p>
 
-## My Skill Set  
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git" />
+<p align="center">
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas (ADS)</strong><br>
+  Foco em desenvolvimento <strong>Backend</strong>
+</p>
 
-<br />  
+---
 
-## Connect with me  
-</a>
-<a href="https://www.linkedin.com/in/edson-vinicius-685a90302" target="_blank" style="margin-right: 15px;">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://www.instagram.com/viniftx.c" target="_blank" style="margin-right: 15px;">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="https://discord.com/users/mikeispro.me" target="_blank" style="margin-right: 15px;">
-  <img src="https://skillicons.dev/icons?i=discord" />
-</a> 
+## 🧠 Sobre mim
 
-<br />
-<br />  
+Meu nome é **Vinicius Santos**, sou estudante de ADS e tenho foco em **desenvolvimento backend com Java e Spring Boot**.
 
-<!--## Github Stats  
+Atualmente estudo e aplico meus conhecimentos em projetos práticos, buscando evoluir constantemente, melhorar minhas habilidades técnicas e me preparar para minha **primeira oportunidade como desenvolvedor júnior**.
 
-<!-- <table>
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ViniciusS4ntos&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusS4ntos&hide_border=true&layout=compact&theme=dark" align="left" />
-    </td>
-  </tr>
-</table>  
-<br/>  -->
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github,html,css,js" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusS4ntos&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusS4ntos&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?username=ViniciusS4ntos&theme=tokyonight" />
+</p>
+
+---
+
+
+
+
+
 
 
