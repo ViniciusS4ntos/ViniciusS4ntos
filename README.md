@@ -34,9 +34,9 @@ Atualmente estudo e aplico meus conhecimentos em projetos práticos, buscando ev
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusS4ntos&layout=compact&theme=tokyonight" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?username=ViniciusS4ntos&theme=tokyonight" />
-</p>
+
+
+
 
 ---
 
