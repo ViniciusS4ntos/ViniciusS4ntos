@@ -16,7 +16,7 @@
 
 Meu nome é **Vinicius Santos**, sou estudante de ADS com foco em **desenvolvimento backend**.
 
-Busco evoluir constantemente na área de tecnologia, aplicando meus conhecimentos em projetos práticos, aprendendo diferentes linguagens, ferramentas e boas práticas de desenvolvimento de software, com o objetivo de conquistar minha **primeira oportunidade como desenvolvedor júnior**.
+Atuo de forma consistente no desenvolvimento das minhas habilidades em tecnologia, aplicando conhecimentos em projetos práticos, trabalhando com diferentes linguagens e ferramentas e seguindo boas práticas de desenvolvimento de software. Tenho foco em evolução contínua, organização de código e construção de soluções funcionais e bem estruturadas.
 
 ---
 
