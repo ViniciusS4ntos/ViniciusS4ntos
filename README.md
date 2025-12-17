@@ -32,6 +32,7 @@ Busco evoluir constantemente na área de tecnologia, aplicando meus conhecimento
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusS4ntos&show_icons=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7&text_color=c9d1d9&border_color=30363d" height="165" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusS4ntos&layout=compact&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&border_color=30363d" height="165" />
 </p>
 
