@@ -1,6 +1,6 @@
 # Vinicius Santos
 
-> Estudante de Análise e Desenvolvimento de Sistemas (ADS). Foco em desenvolvimento Backend.
+> Estudante de Análise e Desenvolvimento de Sistemas (ADS).<br> Foco em desenvolvimento Backend.
 
 <div>
   <a href="https://www.linkedin.com/in/edson-vinicius-685a90302/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2f81f7?style=flat-square&logo=linkedin&logoColor=white"></a>
