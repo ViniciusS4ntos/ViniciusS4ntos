@@ -1,45 +1,33 @@
-<h1 align="center">👨‍💻 Vinicius Santos</h1>
+# Vinicius Santos
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend;JAVA+%7C+SPRING+BOOT;PYTHON+%7c+DJANGO" />
-</p>
+> Estudante de Análise e Desenvolvimento de Sistemas (ADS). Foco em desenvolvimento Backend.
 
-
-<p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas (ADS)</strong><br>
-  Foco em <strong>desenvolvimento Backend</strong>
-</p>
+<div>
+  <a href="https://www.linkedin.com/in/edson-vinicius-685a90302/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2f81f7?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-2f81f7?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
-## 🧠 Sobre mim
-
-Meu nome é **Vinicius Santos**, sou estudante de ADS com foco em **desenvolvimento backend**.
-
-Atuo de forma consistente no desenvolvimento das minhas habilidades em tecnologia, aplicando conhecimentos em projetos práticos, trabalhando com diferentes linguagens e ferramentas e seguindo boas práticas de desenvolvimento de software. Tenho foco em evolução contínua, organização de código e construção de soluções funcionais e bem estruturadas.<br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-vinicius-685a90302/)
-
-
----
-
-## 🛠️ Linguagens e Tecnologias
-
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=java,spring,python,django,mysql,postgres,html,css,js,bootstrap,arch,github,git,kali,linux" />
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Stack Principal
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" title="aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python" />
 </p>
 
 ---
 
-## 📊 Estatísticas
-
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" /> Estatísticas
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ViniciusS4ntos&show_icons=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7&text_color=c9d1d9&border_color=30363d" height="165" /> -->
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusS4ntos&layout=compact&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&border_color=30363d" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ViniciusS4ntos&label=PROFILE+VIEWS&color=2f81f7&style=flat" />
-</p>
-
 ---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ViniciusS4ntos&label=PROFILE+VIEWS&color=2f81f7&style=flat-square" />
+</p>
