@@ -4,7 +4,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/edson-vinicius-685a90302/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2f81f7?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-2f81f7?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:edsonviniciussouza2006@gmail.com
+" target="_blank"><img src="https://img.shields.io/badge/Email-2f81f7?style=flat-square&logo=gmail&logoColor=white"></a>
 </div>
 
 ---
