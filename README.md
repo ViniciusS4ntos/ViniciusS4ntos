@@ -21,13 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusS4ntos&layout=compact&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&border_color=30363d" height="165" />
-</p>
-
----
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ViniciusS4ntos&label=VIEWS&color=2f81f7&style=flat-square" />
