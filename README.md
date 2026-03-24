@@ -3,8 +3,8 @@
 > Estudante de Análise e Desenvolvimento de Sistemas (ADS).<br> Foco em desenvolvimento Backend.
 
 <div>
+ <a href="https://www.edsonvinicius.dev/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-2f81f7?style=flat-square&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/edson-vinicius-685a90302/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2f81f7?style=flat-square&logo=linkedin&logoColor=white"></a>
-
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edsonviniciussouza2006@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-2f81f7?style=flat-square&logo=gmail&logoColor=white">
 </a>
